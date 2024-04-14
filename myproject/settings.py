@@ -99,7 +99,7 @@ DATABASES = {
         "ENGINE": "django.db.backends.sqlite3",
         "NAME": "gblection$default",
         "USER": "gblection",
-        "PASSWORD": os.getenv("MYSQL_PASSWORD")
+        "PASSWORD": os.getenv("MYSQL_PASSWORD"),
         "HOST": "gblection.mysql.pythonanywhere-services.com",
         "OPTIONS": {
             "init_command": "SET NAMES 'utf8mb4';SET sql_mode='STRICT_TRANS_TABLES'",
