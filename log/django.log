@@ -448,3 +448,16 @@ INFO 2024-04-14 23:04:24,888 autoreload 13260 7100 Watching for file changes wit
 INFO 2024-04-14 23:15:24,795 autoreload 13260 7100 C:\python_projects\FrameworkDjango\myproject\myproject\settings.py changed, reloading.
 INFO 2024-04-14 23:15:27,277 autoreload 13124 14304 Watching for file changes with StatReloader
 INFO 2024-04-14 23:16:42,169 autoreload 13124 14304 C:\python_projects\FrameworkDjango\myproject\myproject\settings.py changed, reloading.
+INFO 2024-04-15 18:19:52,138 autoreload 3304 8200 Watching for file changes with StatReloader
+INFO 2024-04-15 18:31:45,490 autoreload 3304 8200 C:\python_projects\FrameworkDjango\myproject\myproject\settings.py changed, reloading.
+INFO 2024-04-15 18:31:46,926 autoreload 6268 7708 Watching for file changes with StatReloader
+INFO 2024-04-15 18:47:04,745 autoreload 6268 7708 C:\python_projects\FrameworkDjango\myproject\myproject\settings.py changed, reloading.
+INFO 2024-04-15 18:47:06,709 autoreload 8048 11488 Watching for file changes with StatReloader
+INFO 2024-04-15 18:48:19,082 autoreload 8048 11488 C:\python_projects\FrameworkDjango\myproject\myproject\settings.py changed, reloading.
+INFO 2024-04-15 18:48:20,639 autoreload 13244 8908 Watching for file changes with StatReloader
+INFO 2024-04-15 18:48:39,922 autoreload 13244 8908 C:\python_projects\FrameworkDjango\myproject\myproject\settings.py changed, reloading.
+INFO 2024-04-15 18:48:40,862 autoreload 2352 7008 Watching for file changes with StatReloader
+INFO 2024-04-15 18:49:56,091 autoreload 2352 7008 C:\python_projects\FrameworkDjango\myproject\myproject\settings.py changed, reloading.
+INFO 2024-04-15 18:49:57,704 autoreload 11920 10028 Watching for file changes with StatReloader
+INFO 2024-04-15 18:50:39,480 autoreload 11920 10028 C:\python_projects\FrameworkDjango\myproject\myproject\settings.py changed, reloading.
+INFO 2024-04-15 18:50:40,880 autoreload 11496 904 Watching for file changes with StatReloader

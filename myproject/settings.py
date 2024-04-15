@@ -96,13 +96,13 @@ WSGI_APPLICATION = "myproject.wsgi.application"
 
 DATABASES = {
     "default": {
-        "ENGINE": "django.db.backends.sqlite3",
+        "ENGINE": "django.db.backends.mysql",
         "NAME": "gblection$default",
         "USER": "gblection",
-        "PASSWORD": os.getenv("MYSQL_PASSWORD"),
+        'PASSWORD': os.getenv('MYSQL_PASSWORD'),
         "HOST": "gblection.mysql.pythonanywhere-services.com",
         "OPTIONS": {
-            "init_command": "SET NAMES 'utf8mb4';SET sql_mode='STRICT_TRANS_TABLES'",
+            'init_command': "SET NAMES 'utf8mb4';SET sql_mode='STRICT_TRANS_TABLES'",
             'charset': 'utf8mb4',
         },
     }
@@ -144,7 +144,7 @@ USE_TZ = True
 # https://docs.djangoproject.com/en/5.0/howto/static-files/
 
 STATIC_URL = "static/"
-STATIC_ROOT = BASE_DIR / 'static/'
+STATIC_ROOT = BASE_DIR / "static/"
 
 
 MEDIA_URL = "/media/"
